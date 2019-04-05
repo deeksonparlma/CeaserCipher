@@ -9,4 +9,7 @@ This a java application that allows a user to input text which they can encrypt 
 * Gradle
 ## Setup and Installation requirements
 * Go to the projects [repository](https://github.com/deeksonparlma/CeaseCipher)
-* Clone the project ```git clone https://github.com/deeksonparlma/CeaserCipher.git```
+* Clone the project
+```
+git clone https://github.com/deeksonparlma/CeaserCipher.git
+```
