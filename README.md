@@ -17,10 +17,18 @@ git clone https://github.com/deeksonparlma/CeaserCipher.git
 ```
 sdk install gradle 5.3.1
 ```
-
 * Install java
 ```
 sdk install java
+```
+* Open the directory in terminal
+* move to main
+```
+cd build/classes/java/main
+```
+*Run the following command to execute the Terminal-java application
+```
+java App
 ```
 ## contact
 to contact me [email me](dicksonparlma@gmail.com)
