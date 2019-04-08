@@ -19,3 +19,11 @@ sdk install java
 ```
 ## contact
 to contact me [email me](dicksonparlma@gmail.com)
+## Technologies used:
+* Java
+* Markdown
+
+* github account: [Dickson](https://github.com/deeksonparlma)
+
+## Licence
+*MIT licence
