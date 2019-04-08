@@ -3,12 +3,20 @@
  */
 package CeaserCipher;
 
-public class App {
-    public String getGreeting() {
-        return "Hello world.";
-    }
+import java.io.Console;
 
-    public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+public class App {
+    public static void main(String[] args){
+        Console myConsole = System.console();
+        System.out.println("Enter a string to encrypt:");
+        String text = myConsole.readLine();
+        System.out.println("Enter a key to encrypt/decrypt with");
+        String keyCode = myConsole.readLine();
+        Integer yourKey = Integer.parseInt(keyCode);
+        CeaserCipher caes = new CeaserCipher();
+        String cipher = caes.encrypt(text,yourKey);
+        System.out.println("Your encrypted text is "+cipher);
+        String decrypt = caes.decrypt(cipher,yourKey);
+        System.out.println("Your decrypted text is "+decrypt);
     }
 }

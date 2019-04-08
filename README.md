@@ -13,3 +13,7 @@ This a java application that allows a user to input text which they can encrypt 
 ```
 git clone https://github.com/deeksonparlma/CeaserCipher.git
 ```
+* Install java
+``
+sdk install java
+``
