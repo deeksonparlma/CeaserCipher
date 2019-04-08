@@ -26,7 +26,7 @@ sdk install java
 ```
 cd build/classes/java/main
 ```
-*Run the following command to execute the Terminal-java application
+* Run the following command to execute the Terminal-java application
 ```
 java App
 ```
