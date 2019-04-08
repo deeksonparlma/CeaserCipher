@@ -1,6 +1,4 @@
 package CeaserCipher;
-import java.io.Console;
-
 public class CeaserCipher {
     public String encrypt(String plainText,int shift){
         if(shift>26){

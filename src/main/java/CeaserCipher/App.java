@@ -4,19 +4,27 @@
 package CeaserCipher;
 
 import java.io.Console;
+import java.util.Scanner;
 
 public class App {
     public static void main(String[] args){
-        Console myConsole = System.console();
+//        Console myConsole = System.console();
+        Scanner scanner = new Scanner(System.in);
+
         System.out.println("Enter a string to encrypt:");
-        String text = myConsole.readLine();
+        String text = scanner.nextLine();
+//        String text =myConsole.readLine();
+
         System.out.println("Enter a key to encrypt/decrypt with");
-        String keyCode = myConsole.readLine();
-        Integer yourKey = Integer.parseInt(keyCode);
-        CeaserCipher caes = new CeaserCipher();
-        String cipher = caes.encrypt(text,yourKey);
+//        String keyCode = myConsole.readLine();
+        String keyCode = scanner.nextLine();
+
+
+        int yourKey = Integer.parseInt(keyCode);
+        CeaserCipher caeser = new CeaserCipher();
+        String cipher = caeser.encrypt(text,yourKey);
         System.out.println("Your encrypted text is "+cipher);
-        String decrypt = caes.decrypt(cipher,yourKey);
+        String decrypt = caeser.decrypt(cipher,yourKey);
         System.out.println("Your decrypted text is "+decrypt);
     }
 }
