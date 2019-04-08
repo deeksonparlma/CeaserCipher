@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64fac965-da3f-478c-82b6-3cd41cc9a0f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CeaserCipher/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CeaserCipher/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="64fac965-da3f-478c-82b6-3cd41cc9a0f5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -69,7 +66,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="129">
               <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -340,9 +337,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryDecrypted_String - 2019.04.08 at 13h 03m 51s.xml">
-      <configuration name="CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryDecrypted_String - 2019.04.08 at 13h 04m 05s.xml">
       <configuration name="CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" configurationId="JUnit" />
     </history-entry>
@@ -368,6 +362,9 @@
       <configuration name="CeaserCipherTest.runCeaserCipher_isEntryString_String" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryString_String - 2019.04.08 at 16h 08m 13s.xml">
+      <configuration name="CeaserCipherTest.runCeaserCipher_isEntryString_String" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryString_String - 2019.04.08 at 16h 08m 28s.xml">
       <configuration name="CeaserCipherTest.runCeaserCipher_isEntryString_String" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -456,12 +453,6 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -508,7 +499,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
+        <state relative-caret-position="129">
           <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
