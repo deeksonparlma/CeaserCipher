@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fac965-da3f-478c-82b6-3cd41cc9a0f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CeaserCipher/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CeaserCipher/App.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -27,34 +28,49 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CeaserCipher" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CeaserCipher" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CeaserCipher" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+            <state relative-caret-position="143">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher/CeaserCipher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-593">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            <state relative-caret-position="810">
+              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -96,10 +112,10 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
         <option value="$PROJECT_DIR$/src/test/java/CeaserCipher/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/CeaserCipher/CeaserCipher.java" />
         <option value="$PROJECT_DIR$/src/main/java/CeaserCipher/App.java" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java" />
       </list>
     </option>
   </component>
@@ -117,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,6 +192,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="JUnit.CeaserCipherTest.runCeaserCipher_isEntryString_String">
     <configuration name="App (1)" type="Application" factoryName="Application" editBeforeRun="true" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="10" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -243,13 +259,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in CeaserCipher.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CeaserCipher.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="CeaserCipher [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="CeaserCipherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CeaserCipher.test" />
@@ -266,7 +293,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CeaserCipherTest.runCeaserCipher_isEntryString_String" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CeaserCipher.test" />
       <extension name="coverage">
         <pattern>
@@ -276,7 +303,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="CeaserCipher" />
       <option name="MAIN_CLASS_NAME" value="CeaserCipher.CeaserCipherTest" />
-      <option name="METHOD_NAME" value="runCeaserCipher_isEntryDecrypted_String" />
+      <option name="METHOD_NAME" value="runCeaserCipher_isEntryString_String" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -284,18 +311,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.App" />
-      <item itemvalue="JUnit.CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" />
-      <item itemvalue="JUnit.CeaserCipherTest" />
       <item itemvalue="Application.App (1)" />
-      <item itemvalue="JUnit.All in CeaserCipher.test" />
+      <item itemvalue="Gradle.CeaserCipher [run]" />
+      <item itemvalue="JUnit.CeaserCipherTest" />
+      <item itemvalue="JUnit.CeaserCipherTest.runCeaserCipher_isEntryString_String" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.All in CeaserCipher.test" />
-        <item itemvalue="Application.App (1)" />
+        <item itemvalue="JUnit.CeaserCipherTest.runCeaserCipher_isEntryString_String" />
         <item itemvalue="JUnit.CeaserCipherTest" />
-        <item itemvalue="JUnit.CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Gradle.CeaserCipher [run]" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -313,15 +340,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryDecrypted_String - 2019.04.08 at 13h 02m 23s.xml">
-      <configuration name="CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryDecrypted_String - 2019.04.08 at 13h 02m 28s.xml">
-      <configuration name="CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryDecrypted_String - 2019.04.08 at 13h 02m 46s.xml">
-      <configuration name="CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryDecrypted_String - 2019.04.08 at 13h 03m 51s.xml">
       <configuration name="CeaserCipherTest.runCeaserCipher_isEntryDecrypted_String" configurationId="JUnit" />
     </history-entry>
@@ -343,6 +361,15 @@
     <history-entry file="All_in_CeaserCipher_test - 2019.04.08 at 13h 43m 03s.xml">
       <configuration name="All in CeaserCipher.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CeaserCipherTest - 2019.04.08 at 16h 07m 47s.xml">
+      <configuration name="CeaserCipherTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryString_String - 2019.04.08 at 16h 08m 01s.xml">
+      <configuration name="CeaserCipherTest.runCeaserCipher_isEntryString_String" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CeaserCipherTest_runCeaserCipher_isEntryString_String - 2019.04.08 at 16h 08m 13s.xml">
+      <configuration name="CeaserCipherTest.runCeaserCipher_isEntryString_String" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +384,7 @@
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27954546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -367,7 +394,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32952693" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49924242" visible="true" weight="0.3257329" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49924242" visible="true" weight="0.29153094" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -382,7 +409,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.20757575" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
@@ -425,16 +452,15 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CeaserCipher/CeaserCipher.java</url>
-          <line>48</line>
+          <url>file://$PROJECT_DIR$/src/main/java/CeaserCipher/App.java</url>
           <properties />
-          <option name="timeStamp" value="27" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CeaserCipher/CeaserCipher.java</url>
-          <line>45</line>
+          <url>file://$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java</url>
+          <line>14</line>
           <properties />
-          <option name="timeStamp" value="29" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -456,37 +482,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipher/AppTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher/CeaserCipher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-593">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/Scanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CeaserCipher/CeaserCipher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CeaserCipher/CeaserCipherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
